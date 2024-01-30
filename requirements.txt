@@ -1,0 +1,12 @@
+asgiref
+Django
+psycopg2
+django-crontab
+python-dateutil
+python-dotenv
+pytils
+pytz
+redis
+six
+pillow
+sqlparse
